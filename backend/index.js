@@ -1,4 +1,3 @@
-
 //importing external modules and reading the environment variables
 const express = require("express"),
        app = express(),
