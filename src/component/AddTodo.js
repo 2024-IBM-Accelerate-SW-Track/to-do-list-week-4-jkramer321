@@ -19,7 +19,7 @@ class AddTodo extends Component {
   // into the text field.
   handleChange = (event) => {
     this.setState({
-      content: event.target.value,
+      content: event.target.value, 
       date: Date()
     });
   };
